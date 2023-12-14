@@ -12,7 +12,7 @@ I'm a 16-year-old lovely guy studying in HKUST!
 <p></p>
 This website mainly holds my notes of all the lectures I 've taken!
 <p></p>
-Besides, blogs and FAQ will be posted sometimes~~~  For Fun!
+Besides, I may share some blogs and FAQ occasionally for fun~~~
 
 ## Education 
 
@@ -21,8 +21,10 @@ This dumb guy somehow hated the dull exams in eighth grade, so he taught himself
 Then, he enrolled into HKUST by means of HKDSE...... Really complicated.
 
 ## Hobbies?
-
-
+Singing?
+Watching football sometimes?
+Sports?
+Erhu? Piano?
 
 
 ## Relationship?
