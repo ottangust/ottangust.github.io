@@ -86,7 +86,7 @@ author:
   location         : "Clear Way Bay, HK"
   employer         :
   pubmed           : 
-  googlescholar    :"http://scholar.google.com/this-is-a-test"
+  googlescholar    : "http://scholar.google.com/this-is-a-test"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
