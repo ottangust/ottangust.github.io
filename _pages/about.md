@@ -21,9 +21,12 @@ This dumb guy somehow hated the dull exams in eighth grade, so he taught himself
 Then, he enrolled into HKUST by means of HKDSE...... Really complicated.
 
 ## Hobbies?
-Singing?<p></p>
-Watching football sometimes?<p></p>
-Sports?<p></p>
+Singing?
+<p></p>
+Watching football sometimes?
+<p></p>
+Sports?
+<p></p>
 Erhu? Piano?
 
 
