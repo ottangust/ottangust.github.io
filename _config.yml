@@ -86,7 +86,7 @@ author:
   location         : "Clear Way Bay, HK"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    :"http://scholar.google.com/this-is-a-test"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "ottangust"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "http://orcid.org/testaccoun"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "testaccount-this-is-fake"
   vine             :
   weibo            :
   xing             :
