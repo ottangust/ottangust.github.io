@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-US"pn
 title                    : Leon Tang
 title_separator          : "-"
 name                     : &name "Leon Tang"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tang On Tai"
-  avatar           : "profile.png"
+  avatar           : "https://ottangust.github.io/files/hiking pic.jpg"
   bio              : "16-year-old year one student in HKUST"
   location         : "Clear Way Bay, HK"
   employer         :
