@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Leon, Tang On Tai
+title                    : Leon Tang
 title_separator          : "-"
-name                     : &name "Leon, Tang On Tai"
+name                     : &name "Leon Tang"
 description              : &description "Current student in HKUST"
 url                      : https://ottangust.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
