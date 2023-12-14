@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 <p></p>
-I'm a 16-year-old lovely guy studying in HKUST! This website mainly holds my notes of all the lectures I 've taken!
+I'm a 16-year-old lovely guy studying in HKUST!
+<p></p>
+This website mainly holds my notes of all the lectures I 've taken!
+<p></p>
 Besides, blogs and FAQ will be posted sometimes~~~  For Fun!
 
 ## Education 
@@ -17,9 +20,14 @@ This dumb guy somehow hated the dull exams in eighth grade, so he taught himself
 <p></p>
 Then, he enrolled into HKUST by means of HKDSE...... Really complicated.
 
+## Hobbies?
+
+
+
+
 ## Relationship?
-find me at 51614059.
-
-
+find me at 51614059. 
+<p></p>
+I nearly do everything alone at school.
 
 **Yeah!**
