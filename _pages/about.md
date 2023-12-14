@@ -13,6 +13,12 @@ Besides, blogs and FAQ will be posted sometimes~~~  For Fun!
 
 ## Education 
 
-This dumb guy somehow didn't like his the boring exams at grade 8. Then he self-studied AP test by means of reading textbooks and somehow enrolled into HKUST one year later......
+This dumb guy somehow hated the dull exams in eighth grade, so he taught himself six AP subjects by devouring the textbooks…
+Then, he enrolled into HKUST by means of HKDSE...... Really complicated.
+
+## Relationship?
+find me at 51614059.
+
+
 
 **Yeah!**
