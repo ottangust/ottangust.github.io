@@ -14,6 +14,7 @@ Besides, blogs and FAQ will be posted sometimes~~~  For Fun!
 ## Education 
 
 This dumb guy somehow hated the dull exams in eighth grade, so he taught himself six AP subjects by devouring the textbooks…
+<p></p>
 Then, he enrolled into HKUST by means of HKDSE...... Really complicated.
 
 ## Relationship?
