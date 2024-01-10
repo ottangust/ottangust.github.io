@@ -38,22 +38,22 @@ I nearly do everything alone at school.
 ## Planning!
 ### OK,that's a lot!
 I'm going to do game theory, Advanced Mathematical Finance, Life Contingencies Models, Insurance Risk and Derivative Securities at HKUST
+<p></p>
 Besides, I'll audit the algorithm course offered in HKUST this semester...
 <p></p>
 I will also study Basic machine learning and stat knowlege for my interest. 
 
 As for the summer vacation, I'll only do algorithm and have fun~~~ 
 <p></p>
-May kindly send emails to Prof.Hur/DON NOH/WANG XIAOLIANG/TIAN DI/YAN JI/ZHU YIDONG FOR RESEARCH PUREPOSES...If so, do algorithm at the 3rd sem
+May kindly send emails to Prof.Hur/DON NOH/WANG XIAOLIANG/TIAN DI/YAN JI/ZHU YIDONG FOR RESEARCH PUREPOSES...If successfully become their student, do algorithm at the 3rd sem
 
 For the third semester, I'm going to do many common courses and attendence-required courses. 
 <p></p>
-Since I WANT TO do self-studing the following stuff: MIT6.031 -> cmu 15.213 -> UCB CS61C -> cs.6S081 -> CMU 15.445  and Maybe some introductory coursera courses! 
-<p></p>
+Why? I WANT TO do self-studing the following stuff: MIT6.031 -> cmu 15.213 -> UCB CS61C -> cs.6S081 -> CMU 15.445 
+
 Besides, doing UROP with Profs will be also considered!
 
 As for the coming winter, I'm going to do my first internship! Maybe SWE/QUANT/IBANK(IBD?)/ ......
-
 Then, for the 4th semester, I may do full-time research/internship. I decided to use the two days for my school studying~
 <p></p>
 The same are for the summer, and my 5th sem! After that, I'll be free with no course!!!
