@@ -36,7 +36,7 @@ find me at 51614059.
 I nearly do everything alone at school.
 
 ## Planning!
-# OK,that's a lot!
+### OK,that's a lot!
 I'm going to do game theory, Advanced Mathematical Finance, Life Contingencies Models, Insurance Risk and Derivative Securities at HKUST
 Besides, I'll audit the algorithm course offered in HKUST this semester...<p></p>
 I will also study Basic machine learning and stat knowlege for my interest. 
@@ -61,4 +61,4 @@ Let's calculate that the time I "graduate" is at my age of 18!!!
 
 
 
-**Yeah!**
+# Yeah!#
