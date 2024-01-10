@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,7 @@ redirect_from:
 ---
 # This site is still under consturtion
 # However, it won't differs the fact that Leon is a lovely guy~
-# Leon is also handsome guy la! Although little bit dump.
-# Anyway, have fun!
-# Don't worry woh! Be happy!
+
 
 <p></p>
 I'm a 16-year-old guy studying in HKUST!
