@@ -38,7 +38,7 @@ I nearly do everything alone at school.
 ## Planning!
 # OK,that's a lot!
 I'm going to do game theory, Advanced Mathematical Finance, Life Contingencies Models, Insurance Risk and Derivative Securities at HKUST
-Besides, I'll audit the algorithm course offered in HKUST this semester...
+Besides, I'll audit the algorithm course offered in HKUST this semester...<p></p>
 I will also study Basic machine learning and stat knowlege for my interest. 
 
 As for the summer vacation, I'll only do algorithm and have fun~~~ <p></p>
@@ -51,7 +51,7 @@ Besides, doing UROP with Profs will be also considered!
 
 As for the coming winter, I'm going to do my first internship! Maybe SWE/QUANT/IBANK(IBD?)/ ......
 
-Then, for the 4th semester, I may do <h2>full-time</h2> research/internship. I decided to use the two days for my school studying~<p></p>
+Then, for the 4th semester, I may do full-time research/internship. I decided to use the two days for my school studying~<p></p>
 The same are for the summer, and my 5th sem! After that, I'll be free with no course!!!<p></p>
 But noted that the oral English, the algorithm and the brain teaser are of vital importance of finding jobs.
 So make sure do many practises during my idle(?) time!!!
