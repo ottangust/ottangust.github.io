@@ -42,11 +42,10 @@ Besides, I'll audit the algorithm course offered in HKUST this semester...
 I will also study Basic machine learning and stat knowlege for my interest. 
 
 As for the summer vacation, I'll only do algorithm and have fun~~~ 
-<p></p>Por kindly send emails to Prof.Hur/DON NOH/WANG XIAOLIANG/TIAN DI/YAN JI/ZHU YIDONG FOR RESEARCH PUREPOSES...If so, do algorithm at the 3rd sem
+May kindly send emails to Prof.Hur/DON NOH/WANG XIAOLIANG/TIAN DI/YAN JI/ZHU YIDONG FOR RESEARCH PUREPOSES...If so, do algorithm at the 3rd sem
 
-For the third semester, I'm going to do many common courses and attendence-required courses. <p></p>
-Since I WANT TO do self-studing the following stuff:
-MIT6.031 -> cmu 15.213 -> UCB CS61C -> cs.6S081 -> CMU 15.445  and Maybe some introductory coursera courses! 
+For the third semester, I'm going to do many common courses and attendence-required courses. 
+Since I WANT TO do self-studing the following stuff: MIT6.031 -> cmu 15.213 -> UCB CS61C -> cs.6S081 -> CMU 15.445  and Maybe some introductory coursera courses! 
 <p></p>
 Besides, doing UROP with Profs will be also considered!
 
