@@ -20,19 +20,10 @@ Besides, I may share some blogs and FAQ occasionally for fun~~~
 
 ## Education 
 
-This dumb guy somehow hated the dull exams in eighth grade, so he taught himself six AP subjects by devouring the textbooks…
-<p></p>
-Then, he enrolled into HKUST by means of HKDSE...... Really complicated.
+Ask me in person, I'll be happy to talk with you >.<
 
 ## Hobbies?
-Singing?
-<p></p>
-Watching football sometimes?
-<p></p>
-Sports?
-<p></p>
-Erhu? Piano?
-
+### Just simply play with me...
 
 ## Inquiry?
 You may find me at 51614059. 
