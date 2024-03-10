@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : Leon Tang
 title_separator          : "-"
-name                     : &name "Leon Tang"
+name                     : &name "Tang On Tai"
 description              : &description "Current student in HKUST"
 url                      : https://ottangust.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
