@@ -14,7 +14,7 @@ description              : &description "Current student in HKUST"
 url                      : https://ottangust.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ottangust.github.io"
-teaser                   :  "864939f3e3a8a3a10f9f89392869d4a.jpg"
+teaser                   :  "haha.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
